@@ -1,7 +1,9 @@
+
+import  "./layout.scss";
+
+
 function App() {
-  return (
-    <div>Heaven World</div>
-  )
+	return <div className='layout'>Heaven World</div>;
 }
 
-export default App
+export default App;
